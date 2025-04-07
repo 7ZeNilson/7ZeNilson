@@ -5,18 +5,19 @@
 ---
 
 ### 💼 Experiência Profissional
-- ✅ 13 anos atuando com suporte técnico em empresas como **Grupo Marquise** e **Unimed Fortaleza**
-- ✅ Conhecimento sólido em **registro, acompanhamento e análise de chamados**
-- ✅ Experiência com ferramentas como **GLPI**, **SOC**, **Office 365** e **Oracle SQL Developer**
+Experiência atuando na **Unimed Fortaleza**:
+
+- 🔧 Análise e teste para diagnóstico de problemas, realizando correções de erros em aplicações desenvolvidas em **Angular** e no **Sabius (Sistema de Gestão de Saúde)**, utilizando **SQL**.
+- 👥 Cadastro, manutenção e suporte a usuários via **SQL** e plataforma **AccessOne**, garantindo acesso seguro e funcionalidade adequada dos sistemas.
+- 📊 Coleta, análise e interpretação de dados para criação e manutenção de relatórios detalhados, utilizando **SQL** e tratamento de dados no **Excel**, fornecendo insights estratégicos para a tomada de decisão.
+- ⚙️ Otimização de processos e automação de consultas para melhorar a eficiência na manipulação e extração de informações relevantes.
 
 ---
 
 ### 🧠 Habilidades Técnicas
-- 🔹 **SQL (Oracle)** – consultas, views, extrações
-- 🔹 **Excel Avançado** – fórmulas, dashboards e análises
-- 🔹 **Python** – manipulação de dados com `pandas` e `matplotlib`
-- 🔹 **Power BI** – relatórios e visualizações interativas
-- 🔹 **Lógica de Programação** e **resolução de problemas**
+- **Banco de Dados:** PL/SQL, SQL, Oracle  
+- **Ferramentas e Plataformas:** AccessOne, Jira Service, Sabius (Sistema de Saúde), Excel  
+- **Suporte e Gestão de Sistemas:** Atendimento a usuários, criação e manutenção de acessos, diagnóstico e correção de erros  
 
 ---
 
@@ -35,12 +36,11 @@ Atuar nas **áreas de Dados**, unindo minha experiência com suporte técnico e 
 ---
 
 ### 📫 Vamos nos conectar?
-- 📍 Fortaleza – CE
-- 📧 nilsonsilva.ti@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/jose-nilson-8b87a387) (adicione seu link!)
+- 📍 Fortaleza – CE  
+- 📧 nilsonsilva.ti@gmail.com  
+- 💼 [LinkedIn](www.linkedin.com/in/jose-nilson-8b87a387) (adicione seu link!)  
 - 📁 Repositórios com projetos práticos estão logo abaixo 👇
 
 ---
 
 ⭐ Obrigado por visitar meu perfil!
-
