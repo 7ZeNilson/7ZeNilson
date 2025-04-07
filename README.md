@@ -37,7 +37,7 @@ Atuar nas **áreas de Dados**, unindo minha experiência com suporte técnico e 
 
 ### 📫 Vamos nos conectar?
 - 📍 Fortaleza – CE  
-- 📧 nilsonsilva.ti@gmail.com  
+- 📧 7zenilson@gmail.com  
 - 💼 [LinkedIn](www.linkedin.com/in/jose-nilson-8b87a387) (adicione seu link!)  
 - 📁 Repositórios com projetos práticos estão logo abaixo 👇
 
