@@ -35,6 +35,10 @@ Atuar nas **áreas de Dados**, unindo minha experiência com suporte técnico e 
 
 ---
 
+PROJETOS PESSOAIS. 
+
+Analise RFM de uma Farmacia.  https://github.com/7ZeNilson/analisedadosnilson
+
 ### 📫 Vamos nos conectar?
 - 📍 Fortaleza – CE  
 - 📧 7zenilson@gmail.com  
