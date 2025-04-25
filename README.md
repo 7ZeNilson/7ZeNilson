@@ -42,7 +42,8 @@ Analise RFM de uma Farmacia.  https://github.com/7ZeNilson/analisedadosnilson
 ### 📫 Vamos nos conectar?
 - 📍 Fortaleza – CE  
 - 📧 7zenilson@gmail.com  
-- 💼 [LinkedIn](www.linkedin.com/in/jose-nilson-8b87a387) (adicione seu link!)  
+- 💼 [LinkedIn](www.linkedin.com/in/jose-nilson-8b87a387) (adicione seu link!)
+- 💼 [Notion](https://bit.ly/portfolio7zenilson) (adicione seu link!) 
 - 📁 Repositórios com projetos práticos estão logo abaixo 👇
 
 ---
