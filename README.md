@@ -37,7 +37,7 @@ Atuar nas **áreas de Dados**, unindo minha experiência com suporte técnico e 
 ---
 **Dashboards Power Bi:** bit.ly/7zenilsonpowerbi
 
-[Dashboards Power Bi](bit.ly/7zenilsonpowerbi) (bit.ly/7zenilsonpowerbi)
+Dashboards Power Bi (bit.ly/7zenilsonpowerbi)
 
 **Portfolio:** https://thinkable-chartreuse-3fe.notion.site/Portf-lio-Ci-ncias-de-Dados-1dd57ca498b480e6b052e3e1f9b8e2c9?pvs=4
 
