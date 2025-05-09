@@ -14,7 +14,7 @@
 ---
 
 ### 🧠 Habilidades Técnicas
-- **Banco de Dados:** PL/SQL, SQL, Oracle  
+- **Banco de Dados:** PL/SQL, SQL, Oracle, Python, Power BI, Excel
 - **Ferramentas e Plataformas:** AccessOne, Jira Service, Sabius (Sistema de Saúde), Excel  
 - **Suporte e Gestão de Sistemas:** Atendimento a usuários, criação e manutenção de acessos, diagnóstico e correção de erros  
 
@@ -45,7 +45,6 @@ Atuar nas **áreas de Dados**, unindo minha experiência com suporte técnico e 
 - 📍 Fortaleza – CE  
 - 📧 7zenilson@gmail.com  
 - 💼 [LinkedIn](www.linkedin.com/in/josé-nilson-8b87a387) (https://bit.ly/4lT8Qxy)
-- 💼 [Notion](https://bit.ly/portfolio7zenilson) (https://bit.ly/portfolio7zenilson) 
 
 ---
 
