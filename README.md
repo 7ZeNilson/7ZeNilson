@@ -23,14 +23,13 @@
 ### 📊 Em constante evolução
 Atualmente estou focado em desenvolver projetos para meu portfólio com:
 - 📈 **Análises de Dados com SQL e Power BI**
-- 🧪 **RFM e Análises Cohort**
 - 📊 **Dashboards interativos**
 - 🔍 **Limpeza e tratamento de dados com Python**
 
 ---
 
 ### 🚀 Objetivo Profissional
-Atuar nas **áreas de Dados**, unindo minha experiência com suporte técnico e minha formação em Análise de Dados para gerar insights, otimizar processos e apoiar decisões estratégicas baseadas em dados.
+Atuar nas **áreas de Dados**, unindo minha experiência com suporte técnico e minha formação em Engenharia de Software para gerar insights, otimizar processos e apoiar decisões estratégicas baseadas em dados.
 
 ---
 
@@ -45,8 +44,8 @@ Atuar nas **áreas de Dados**, unindo minha experiência com suporte técnico e 
 ### 📫 Vamos nos conectar?
 - 📍 Fortaleza – CE  
 - 📧 7zenilson@gmail.com  
-- 💼 [LinkedIn](www.linkedin.com/in/josé-nilson-8b87a387) (adicione seu link!)
-- 💼 [Notion](https://bit.ly/portfolio7zenilson) (adicione seu link!) 
+- 💼 [LinkedIn](www.linkedin.com/in/josé-nilson-8b87a387) (https://bit.ly/4lT8Qxy)
+- 💼 [Notion](https://bit.ly/portfolio7zenilson) (https://bit.ly/portfolio7zenilson) 
 - 📁 Repositórios com projetos práticos estão logo abaixo 👇
 
 ---
