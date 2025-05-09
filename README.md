@@ -5,7 +5,6 @@
 ---
 
 ### 💼 Experiência Profissional
-Experiência atuando na **Unimed Fortaleza**:
 
 - 🔧 Análise e teste para diagnóstico de problemas, realizando correções de erros em aplicações desenvolvidas em **Angular** e no **Sabius (Sistema de Gestão de Saúde)**, utilizando **SQL**.
 - 👥 Cadastro, manutenção e suporte a usuários via **SQL** e plataforma **AccessOne**, garantindo acesso seguro e funcionalidade adequada dos sistemas.
