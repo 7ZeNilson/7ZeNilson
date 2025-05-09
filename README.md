@@ -46,7 +46,6 @@ Atuar nas **áreas de Dados**, unindo minha experiência com suporte técnico e 
 - 📧 7zenilson@gmail.com  
 - 💼 [LinkedIn](www.linkedin.com/in/josé-nilson-8b87a387) (https://bit.ly/4lT8Qxy)
 - 💼 [Notion](https://bit.ly/portfolio7zenilson) (https://bit.ly/portfolio7zenilson) 
-- 📁 Repositórios com projetos práticos estão logo abaixo 👇
 
 ---
 
