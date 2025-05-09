@@ -37,6 +37,8 @@ Atuar nas **áreas de Dados**, unindo minha experiência com suporte técnico e 
 ---
 **Dashboards Power Bi:** bit.ly/7zenilsonpowerbi
 
+[Dashboards Power Bi](bit.ly/7zenilsonpowerbi)
+
 **Portfolio:** https://thinkable-chartreuse-3fe.notion.site/Portf-lio-Ci-ncias-de-Dados-1dd57ca498b480e6b052e3e1f9b8e2c9?pvs=4
 
 **Curriculo:** https://thinkable-chartreuse-3fe.notion.site/Curr-culo-1de57ca498b4809bb3ecef764f1c4d6e?pvs=4
@@ -45,6 +47,8 @@ Atuar nas **áreas de Dados**, unindo minha experiência com suporte técnico e 
 - 📍 Fortaleza – CE  
 - 📧 7zenilson@gmail.com  
 - 💼 [LinkedIn](www.linkedin.com/in/josé-nilson-8b87a387) (https://bit.ly/4lT8Qxy)
+
+
 
 ---
 
