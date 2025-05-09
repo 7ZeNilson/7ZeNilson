@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o José Nilson
 
-🎯 Em transição para a área de **Dados**. Tenho mais de 13 anos de experiência com **Service Desk**, suporte técnico, sistemas e atendimento ao cliente, e estou aplicando essa bagagem agora no mundo dos dados!
+🎯 Em transição para a área de **Dados**. Tenho mais de 11 anos de experiência com **Service Desk**, suporte técnico, sistemas e atendimento ao cliente, e estou aplicando essa bagagem agora no mundo dos dados!
 
 ---
 
