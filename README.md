@@ -37,7 +37,9 @@ Atuar nas **áreas de Dados**, unindo minha experiência com suporte técnico e 
 
 PROJETOS PESSOAIS. 
 
-Analise RFM de uma Farmacia.  https://github.com/7ZeNilson/analisedadosnilson
+**Dashboards Power Bi:** bit.ly/7zenilsonpowerbi
+**Portfolio:** https://thinkable-chartreuse-3fe.notion.site/Portf-lio-Ci-ncias-de-Dados-1dd57ca498b480e6b052e3e1f9b8e2c9?pvs=4
+**Curriculo:** https://thinkable-chartreuse-3fe.notion.site/Curr-culo-1de57ca498b4809bb3ecef764f1c4d6e?pvs=4
 
 ### 📫 Vamos nos conectar?
 - 📍 Fortaleza – CE  
