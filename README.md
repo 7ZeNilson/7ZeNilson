@@ -14,8 +14,8 @@
 ---
 
 ### 🧠 Habilidades Técnicas
-- **Banco de Dados:** PL/SQL, SQL, Oracle, Python, Power BI, Excel
-- **Ferramentas e Plataformas:** AccessOne, Jira Service, Sabius (Sistema de Saúde), Excel  
+- **Banco de Dados:** PL/SQL, SQL, Oracle, Python, Power BI
+- **Ferramentas e Plataformas:** AccessOne, Jira Service, Sabius (Sistema de Saúde), Excel, Git e GitHub
 - **Suporte e Gestão de Sistemas:** Atendimento a usuários, criação e manutenção de acessos, diagnóstico e correção de erros  
 
 ---
